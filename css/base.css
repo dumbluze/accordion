@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font: normal 14px/20px Arial,Helvetica,sans-serif;
+  color: #999;
+}
+.wrapper{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 150px 15px 0 15px;
+}
